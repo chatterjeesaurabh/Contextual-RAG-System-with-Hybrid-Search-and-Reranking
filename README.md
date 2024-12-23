@@ -13,6 +13,7 @@ One of the major challenges of naive RAG systems is getting the right retrieved 
 4. BM25 Index to store TF-IDF vectors for keyword-based retrieval.
 5. Ensemble Retriever for Hybrid Search.
 6. Reranker model: `BAAI/bge-reranker-v2-m3`.
+7. **LangChain** to orchestrate chain.
 
 <!-- ![](./images/contextual_rag_flow_chart.png) -->
 <img src="./images/contextual_rag_flow_chart.png" width="800">
