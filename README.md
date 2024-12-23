@@ -55,6 +55,6 @@ One of the major challenges of naive RAG systems is getting the right retrieved 
 
 ### Build RAG Pipeline
 
-- Design a RAG Prompt which takes query from the user and relavant context from documents using the Retriever, and produces answer.
+- Designed a RAG Prompt which takes query from the user and relavant context from documents using the Retriever, and produces answer.
 - {question} + {context} -> rag_prompt_template -> llm.
 
